@@ -1,60 +1,78 @@
-<h1 align="center">Hi 👋, I'm Adnan Qureshi</h1>
-<h3 align="center">Full Stack Developer | Crafting Code and Building Solutions</h3>
+<h1 align="center">Hi there! 👋 I'm Adnan Qureshi</h1>
+<h3 align="center">🚀 Full Stack Developer | Innovating through Code</h3>
 
 <p align="center">
   <a href="https://github.com/juniorcoder02">
-    <img src="https://komarev.com/ghpvc/?username=juniorcoder02&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=juniorcoder02&label=Profile%20Views&color=0088ff&style=flat-square" alt="Profile views" />
   </a>
   <a href="https://github.com/juniorcoder02?tab=followers">
-    <img src="https://img.shields.io/github/followers/juniorcoder02?label=Followers&color=ff69b4&style=flat" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/juniorcoder02?label=Followers&color=0088ff&style=flat-square" alt="GitHub followers" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 💡 About Me
 
-- 💻 Passionate **Full Stack Web Developer** specializing in **HTML, CSS, JavaScript, React, MongoDB, Java, Express, Next.js**, and more!
-- 🌱 Currently focusing on **Java Full Stack Development** and **Spring Boot**.
-- 🎯 Aiming to secure a **Software Development Engineer** position by 2025.
-- 🌐 Latest Project: [RoomieRent](https://roomierent.onrender.com) - a platform to find rental properties.
+- 🔧 **Full Stack Developer** specializing in **React, Node.js, MongoDB, Java, and Spring Boot**.
+- 🌱 Currently learning **Java Full Stack Development** and **Spring Boot**.
+- 🎯 Aspiring to become a **Software Development Engineer** by 2025.
+- 🌟 Latest project: [RoomieRent](https://roomierent.onrender.com) - Helping you find rental spaces with ease.
 
 ---
 
-### 🏅 Open Source Contributions
+### 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GSSoC-Contributor-blueviolet?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="GSSoC Contributor" />
-  <img src="https://img.shields.io/badge/GSSoC-Badge-blueviolet?style=for-the-badge&logo=hackclub&logoColor=white" alt="GSSoC Badge" />
+#### **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+#### **Frontend Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+</p>
+
+#### **Backend Frameworks & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+</p>
+
+#### **Database Tools**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+#### **DevOps Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+#### **IDEs & Code Editors**
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
 ---
 
-### 🛠️ Tech & Tools I Work With
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=30&labelColor=E34F26&color=E34F26&label=" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoWidth=30&labelColor=1572B6&color=1572B6&label=" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=30&labelColor=F7DF1E&color=F7DF1E&label=" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&logoWidth=30&labelColor=61DAFB&color=61DAFB&label=" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&logoWidth=30&labelColor=47A248&color=47A248&label=" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge&logoWidth=30&labelColor=ED8B00&color=ED8B00&label=" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge&logoWidth=30&labelColor=000000&color=000000&label=" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&logoWidth=30&labelColor=339933&color=339933&label=" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=juniorcoder02&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=juniorcoder02&theme=radical" alt="GitHub streak" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=juniorcoder02&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=juniorcoder02&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 My LeetCode Stats
+### 🏅 LeetCode Progress
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/juniorcoder02?theme=dark&font=Abel&ext=heatmap" alt="LeetCode Stats" />
@@ -62,25 +80,24 @@
 
 ---
 
-### 💼 Let's Connect!
+### 📬 Connect With Me!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adnan-qureshi-aa1517246"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/juniorcoder02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/u/juniorcoder02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:aadiqureshi89@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="tel:+918965939588"><img src="https://img.shields.io/badge/Phone-323330?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
+  <a href="https://www.linkedin.com/in/adnan-qureshi-aa1517246/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/juniorcoder02"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/juniorcoder02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:aadiqureshi89@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-### 🔥 Top Repositories
+### 🔥 Featured Projects
 
 <p align="center">
   <a href="https://github.com/juniorcoder02/RoomieRent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniorcoder02&repo=RoomieRent&theme=tokyonight" alt="RoomieRent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniorcoder02&repo=RoomieRent&theme=radical" alt="RoomieRent" />
   </a>
   <a href="https://github.com/juniorcoder02/CareCode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniorcoder02&repo=CareCode&theme=tokyonight" alt="CareCode" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juniorcoder02&repo=CareCode&theme=radical" alt="CareCode" />
   </a>
 </p>
