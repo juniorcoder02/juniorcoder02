@@ -72,10 +72,14 @@
 
 ---
 
-### 🏅 LeetCode Progress
-
+<h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/juniorcoder02?theme=dark&font=Abel&ext=heatmap" alt="LeetCode Stats" />
+
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/juniorcoder02?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
 ---
